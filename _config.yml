@@ -58,13 +58,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Sean Buckley"
+  avatar : "/assets/images/SB_Headshot_ECU_Website.png"
+  bio    : "Conservation and ecological geneticist with a focus on applying evolutionary and genomic research to conservation management of biodiversity. Research spanning population genetics, phylogeography, and adaptive genomics, with applications in conservation planning, conservation translocations (including genetic rescue), and threatened species recovery across a range of Australian fauna - (currently) including freshwater fishes, marsupials, reptiles, and birds - using genomic tools to address real-world conservation challenges."
   links:
-    - label: "Website"
+    - label: "The G-CAT (blog)"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://theg-cat.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
